@@ -1,0 +1,110 @@
+Race (Subrace),STR,DEX,CON,INT,WIS,CHA,Source
+Aarakocra,,2,,,1,,EE
+Aasimar,,,,,1,2,DMG
+Aasimar (Fallen),1,,,,,2,VGM
+Aasimar (Protector),,,,,1,2,VGM
+Aasimar (Scourge),,,1,,,2,VGM
+Aetherborn [* = +1 to two],*,*,*,*,*,2,PSK
+Alseid,,2,,,1,,MH
+Aven (Hawk),,2,,,2,,PSA
+Aven (Ibis),,2,,1,,,PSA
+Bugbear,2,1,,,,,VGM
+Centaur,2,,,,1,,MH
+Changeling [* = +1 to either],,*,,*,,2,UA:E
+Dwarf,,,2,,,,PHB
+Dwarf (Duergar),1,,2,,,,MTF
+Dwarf (Hill),,,2,,1,,PHB
+Dwarf (Kaladesh),,,2,,1,,PSK
+Dwarf (Mountain),2,,2,,,,PHB
+Dragonborn,2,,,,,1,PHB
+Dragonkin (Edjet/Soldier),,1,,,,2,MH
+Dragonkin (Flame/Fire),1,,,,,2,MH
+Dragonkin (Stone/Cave),,,1,,,2,MH
+Dragonkin (Wave/Tide),,,,,1,2,MH
+Dragonkin (Wind/Storm),,,,1,,2,MH
+Elf,,2,,,,,PHB
+Elf (Drow),,2,,,,1,PHB
+"Elf (Eladrin, High)",,2,,1,,,DMG/PHB
+Elf (Kaladesh),,2,,,1,,PSK
+"Elf (Sea, Shadar-Kai)",,2,1,,,,MTF
+Elf (Shadow Fey),,2,,,,1,MH
+Elf (Wood),,2,,,1,,PHB
+Elf (Zendikar Joraga),,1,,,2,,PSZ
+Elf (Zendikar Mul Daya),1,,,,2,,PSZ
+Elf (Zendikar Tajuru),,,,,2,1,PSZ
+Firbolg,1,,,,2,,VGM
+Gearforged [* = +1 to two],*,*,*,*,*,*,MH
+Genasi (Air),,1,2,,,,EE
+Genasi (Earth),1,,2,,,,EE
+Genasi (Fire),,,2,1,,,EE
+Genasi (Water),,,2,,1,,EE
+Githyanki,2,,,1,,,MTF
+Githzerai,,,,1,2,,MTF
+Gnoll (Civilized),2,,1,,,,SH
+Gnoll (Savage),2,,,,1,,SH
+Gnome,,,,2,,,PHB
+Gnome (Forest),,1,,2,,,PHB
+Gnome (Rock),,,1,2,,,PHB
+Goblin,,2,1,,,,VGM
+"Goblin (Ixalan, Zendikar)",,,2,,,,PSI/PSZ
+Goliath,2,,1,,,,EE
+Halfling,,2,,,,,PHB
+Halfling (Lightfoot),,2,,,,1,PHB
+Halfling (Stout),,2,1,,,,PHB
+Half-Elf,,,,,,2,PHB
+Half-Orc,2,,1,,,,PHB
+Hobgoblin,,,2,1,,,VGM
+Human,,,,,,,PHB
+Human (Calishite),1,1,,,,,PHB
+Human (Chondathan),,1,1,,,,PHB
+Human (Damaran),,,1,1,,,PHB
+Human (Illuskan),,,,1,1,,PHB
+Human (Mulan),,,,,1,1,PHB
+Human (Rashemi),,1,,1,,,PHB
+Human (Shou),,,1,,1,,PHB
+Human (Tethyrian),,,,1,,1,PHB
+Human (Turami),,1,,,,1,PHB
+Kalashtar [* = +1 to one],*,*,*,*,+1*,+1*,UA:E
+Kenku,,2,,,1,,VGM
+Khenra,1,2,,,,,PSA
+Kobold,-2,2,,,,,VGM
+Kobold (Midgard),,2,,,1,,MH
+Kor,,2,,,1,,PSZ
+Lizardfolk (Southlands),2,,,,1,,SH
+Lizardfolk (Volo's),,,2,,1,,VGM
+Merfolk (Cosi/Trickster),,,,1,,2,PSZ
+Merfolk (Emeria/Wind),,,,,2,1,PSZ
+Merfolk (Ula/Water),,,,2,,1,PSZ
+Merfolk (Ixalan Blue),,,,2,,1,PSI
+Merfolk (Ixalan Green),,,,,2,1,PSI
+Minotaur (Amonkhet),2,,1,,,,PSA
+"Minotaur (Midgard, Southlands)",2,,1,,,,MH/SH
+Naga,,,2,1,,,PSA
+Orc,2,,1,-2,,,VGM
+Orc (Ixalan),2,,1,,,,PSI
+Ravenfolk,,,1,,,1,MH
+Shifter (Beasthide),,1,2,,,,UA:E
+Shifter (Longtooth),2,1,,,,,UA:E
+Shifter (Swiftstride),,2,,,,1,UA:E
+Shifter (Wildhunt),,1,,,2,,UA:E
+Siren,,,,,,2,PSI
+Tabaxi,,2,,,,1,VGM
+Tiefling,,,,1,,2,PHB
+"Tiefling (Dispater, Glasya)",,1,,,,2,MTF
+Tiefling (Feral Variant),,2,,1,,,SCAG 
+Tiefling (Fierna),,,,,1,2,MTF
+Tiefling (Levistus),,,1,,,2,MTF
+Tiefling (Zariel),1,,,,,2,MTF
+Tiefling (all other MTF),,,,1,,2,MTF
+"Tosculi (Hiveless) [* = +2 to one, ^ = +2 to one, also take -2 to any ability score]",*,*,*,^,^,^,SH
+Triton,1,,1,,,1,VGM
+Trollkin (Night Whisper),,,2,,1,,MH
+Trollkin (Stonehide),1,,2,,,,MH
+Vedalken,,,,2,1,,PSK
+Werelion,1,,,,2,,SH
+Vampire (Ixalan),,,,,1,2,PSI
+Vampire (Zendikar),,,,1,,2,PSZ
+Warforged (Envoy) [* = +1 to any two],*,*,1,*,*,*,UA:E
+Warforged (Juggernaut),2,,1,,,,UA:E
+Warforged (Skirmisher),,2,1,,,,UA:E
+Yuan-Ti Pureblood,,,,1,,2,VGM
